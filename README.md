@@ -1,3 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Awesome-pyecharts</title>
+                <script type="text/javascript" src="https://assets.pyecharts.org/assets/v5/echarts.min.js"></script>
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+    <style>
+        body {
+            background-image: url(r"C:/Users/任少扬/Desktop/v2-048d9a0743901a6146c0cab8863f3412_r.png");
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center center;
+        }
+    </style>
+</head>
+<body>
+</body>
+</html>
+
 <!DOCTYPE html><html><head><meta charset="UTF-8"><title>图表</title></head><body><!DOCTYPE html>
 <html>
 <!DOCTYPE html>
@@ -8,7 +33,7 @@
     <title>Background Image Example</title>
     <style>
         body {
-            background-image: url("C:\Users\任少扬\Documents\GitHub\shandongde.github.io\fda5fd98cf95642cf50e8287b79b5cea7580e6bddc4e-vaHN5g_fw658.webp");
+            background-image: url("C:/Users/任少扬/Desktop/fda5fd98cf95642cf50e8287b79b5cea7580e6bddc4e-vaHN5g_fw658.webp");
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center center;
@@ -1397,3 +1422,22 @@
 </body>
 </html>
 </body></html>
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>背景图片示例</title>
+    <style>
+        body {
+            background-image: url(https://pic3.zhimg.com/v2-048d9a0743901a6146c0cab8863f3412_r.jpg);
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center center;
+        }
+    </style>
+</head>
+<body>
+    <!-- 在这里添加其他HTML内容 -->
+</body>
+</html>

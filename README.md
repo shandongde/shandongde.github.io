@@ -8,7 +8,7 @@
     <title>Background Image Example</title>
     <style>
         body {
-            background-image: url("C:\Users\任少扬\Documents\GitHub\fortune\新建文件夹 (2)\fda5fd98cf95642cf50e8287b79b5cea7580e6bddc4e-vaHN5g_fw658.webp");
+            background-image: url("C:\Users\任少扬\Documents\GitHub\shandongde.github.io\fda5fd98cf95642cf50e8287b79b5cea7580e6bddc4e-vaHN5g_fw658.webp");
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center center;

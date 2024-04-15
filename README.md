@@ -1,28 +1,4 @@
 <!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <title>Awesome-pyecharts</title>
-                <script type="text/javascript" src="https://assets.pyecharts.org/assets/v5/echarts.min.js"></script>
-<!DOCTYPE html>
-<html lang="zh">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>
-    <style>
-        body {
-            background-image: url(r"C:/Users/任少扬/Desktop/v2-048d9a0743901a6146c0cab8863f3412_r.png");
-            background-size: cover;
-            background-repeat: no-repeat;
-            background-position: center center;
-        }
-    </style>
-</head>
-<body>
-</body>
-</html>
-
 <!DOCTYPE html><html><head><meta charset="UTF-8"><title>图表</title></head><body><!DOCTYPE html>
 <html>
 <!DOCTYPE html>
@@ -31,14 +7,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Background Image Example</title>
-    <style>
-        body {
-            background-image: url("C:/Users/任少扬/Desktop/fda5fd98cf95642cf50e8287b79b5cea7580e6bddc4e-vaHN5g_fw658.webp");
-            background-size: cover;
-            background-repeat: no-repeat;
-            background-position: center center;
-        }
-    </style>
+   <!DOCTYPE html>
+<html>
+<head>
+<style>
+  body {
+    background-image: url('https://pic3.zhimg.com/v2-048d9a0743901a6146c0cab8863f3412_r.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+</style>
+</head>
+<body>
+</body>
+</html>
+
 </head>
 <body>
     <!-- Your content here -->
@@ -1422,22 +1406,143 @@
 </body>
 </html>
 </body></html>
-<!DOCTYPE html>
-<html lang="zh">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>背景图片示例</title>
-    <style>
-        body {
-            background-image: url(https://pic3.zhimg.com/v2-048d9a0743901a6146c0cab8863f3412_r.jpg);
-            background-size: cover;
-            background-repeat: no-repeat;
-            background-position: center center;
-        }
-    </style>
-</head>
-<body>
-    <!-- 在这里添加其他HTML内容 -->
-</body>
-</html>
+<table>
+  <tr>
+    <th>省份分数线</th>
+    <th>2020</th>
+    <th>2021</th>
+    <th>2022</th>
+  </tr>
+  <tr>
+    <td>重庆</td>
+    <td>195</td>
+    <td>210</td>
+    <td>250</td>
+  </tr>
+  <tr>
+    <td>湖南</td>
+    <td>165</td>
+    <td>165</td>
+    <td>220</td>
+  </tr>
+  <tr>
+    <td>浙江</td>
+    <td>195</td>
+    <td>186</td>
+    <td>206</td>
+  </tr>
+  <tr>
+    <td>四川</td>
+    <td>175</td>
+    <td>150</td>
+    <td>200</td>
+  </tr>
+  <tr>
+    <td>北京</td>
+    <td>140</td>
+    <td>150</td>
+    <td>199</td>
+  </tr>
+  <tr>
+    <td>香港</td>
+    <td>145</td>
+    <td>148</td>
+    <td>199</td>
+  </tr>
+  <tr>
+    <td>广东</td>
+    <td>155</td>
+    <td>155</td>
+    <td>199</td>
+  </tr>
+  <tr>
+    <td>福建</td>
+    <td>145</td>
+    <td>140</td>
+    <td>199</td>
+  </tr>
+  <tr>
+    <td>湖北</td>
+    <td>150</td>
+    <td>148</td>
+    <td>180</td>
+  </tr>
+  <tr>
+    <td>上海</td>
+    <td>120</td>
+    <td>120</td>
+    <td>180</td>
+  </tr>
+  <tr>
+    <td>江苏</td>
+    <td>150</td>
+    <td>150</td>
+    <td>168</td>
+  </tr>
+  <tr>
+    <td>江西</td>
+    <td>140</td>
+    <td>140</td>
+    <td>161</td>
+  </tr>
+  <tr>
+    <td>河北</td>
+    <td>150</td>
+    <td>155</td>
+    <td>153</td>
+  </tr>
+  <tr>
+    <td>山东</td>
+    <td>130</td>
+    <td>120</td>
+    <td>153</td>
+  </tr>
+  <tr>
+    <td>辽宁</td>
+    <td>130</td>
+    <td>140</td>
+    <td>150</td>
+  </tr>
+  <tr>
+    <td>吉林</td>
+    <td>130</td>
+    <td>118</td>
+    <td>150</td>
+  </tr>
+  <tr>
+    <td>安徽</td>
+    <td>135</td>
+    <td>128</td>
+    <td>146</td>
+  </tr>
+  <tr>
+    <td>河南</td>
+    <td>110</td>
+    <td>105</td>
+    <td>140</td>
+  </tr>
+  <tr>
+    <td>陕西</td>
+    <td>115</td>
+    <td>106</td>
+    <td>140</td>
+  </tr>
+  <tr>
+    <td>天津</td>
+    <td>150</td>
+    <td>120</td>
+    <td>138</td>
+  </tr>
+  <tr>
+    <td>黑龙江</td>
+    <td>135</td>
+    <td>128</td>
+    <td>135</td>
+  </tr>
+  <tr>
+    <td>澳门</td>
+    <td>115</td>
+    <td>100</td>
+    <td>135</td>
+  </tr>
+  <tr>
